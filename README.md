@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=theaykac&label=Profile%20views&color=0e75b6&style=flat" alt="theaykac" /> </p>
 
-<img align="right" alt="coding" width="400" src="https://giphy.com/embed/qgQUggAC3Pfv687qPC">
-
 
 
 - 🔭 I’m currently working on [Rent A Car](https://github.com/TheAykac/Rent-A-Car)
