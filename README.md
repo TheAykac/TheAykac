@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ömer Faruk</h1>
 <h3 align="center">A passionate backend developer from Turkey</h3>
 
+<p> <img align="right" src="https://thumbs.gfycat.com/ExemplaryFairFeline-max-1mb.gif" width="500" height="320" /> </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=theaykac&label=Profile%20views&color=0e75b6&style=flat" alt="theaykac" /> </p>
 
 
